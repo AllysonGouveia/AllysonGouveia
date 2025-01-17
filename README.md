@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi, eu sou o Allyson, tenho 22 anos e sou de São Luís, Maranhão. Atualmente, estou cursando Sistemas de Informação no Centro Universitário Santa Terezinha (Cest) e trabalho como desenvolvedor front-end.<br><br>Tenho um grande interesse por criar interfaces que sejam tanto bonitas quanto funcionais, sempre buscando melhorar a experiência do usuário. Adoro trabalhar com tecnologias como HTML, CSS, JavaScript e React, e estou sempre aprendendo coisas novas para me aprimorar.<br><br>Fique à vontade para conferir meus projetos por aqui!
+Oi, me chamo Allyson, tenho 22 anos e sou de São Luís, Maranhão. Atualmente, estou cursando Sistemas de Informação no Centro Universitário Santa Terezinha (Cest) e trabalho como desenvolvedor front-end.<br><br>Tenho um grande interesse por criar interfaces que sejam tanto bonitas quanto funcionais, sempre buscando melhorar a experiência do usuário. Adoro trabalhar com tecnologias como HTML, CSS, JavaScript e React, e estou sempre aprendendo coisas novas para me aprimorar.<br><br>Fique à vontade para conferir meus projetos por aqui!
 
 
 ## 🌐 Socials:
